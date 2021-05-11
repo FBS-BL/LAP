@@ -4,28 +4,12 @@
   "artist": "Jeonghyeon (정현)",
   "author": "Jiha (지하)",
   "cover": "https://image.bomtoon.com/assets/upfile/co_thumb2/16664_1609996224.5722.jpg",
-  "chapters": {
-    "6": {
-      "title": "Chapter 6",
-      "volume": "",
-      "groups": {
-        "FBS, HCS, NMS": "/proxy/api/imgur/chapter/QujYW3P/"
-      },
-      "last_updated": "1620493680"  
-    },     
-    "5": {
-      "title": "Chapter 5",
-      "volume": "",
-      "groups": {
-        "FBS, HCS, NMS": "/proxy/api/imgur/chapter/9ncDl2o/"
-      },
-      "last_updated": "1620493680"  
-    },     
+  "chapters": {  
     "4": {
       "title": "Chapter 4",
       "volume": "",
       "groups": {
-        "FBS, HCS, NMS": "/proxy/api/imgur/chapter/TCI0NLF/"
+        "FBS, NMS": "/proxy/api/imgur/chapter/N3UPGBo/"
       },
       "last_updated": "1620493680"  
     },   
@@ -33,7 +17,7 @@
       "title": "Chapter 3",
       "volume": "",
       "groups": {
-        "FBS, HCS, NMS": "/proxy/api/imgur/chapter/2j4Fkc1/"
+        "FBS, NMS": "/proxy/api/imgur/chapter/z9v3bPj/"
       },
       "last_updated": "1620493680"  
     },      
@@ -41,7 +25,7 @@
       "title": "Chapter 2",
       "volume": "",
       "groups": {
-        "FBS, HCS, NMS": "/proxy/api/imgur/chapter/XNuvfKP/"
+        "FBS, NMS": "/proxy/api/imgur/chapter/T5qzNuh/"
       },
       "last_updated": "1620493680"
     },
@@ -49,7 +33,7 @@
       "title": "Chapter 1",
       "volume": "",
       "groups": {
-        "FBS, HCS, NMS": "/proxy/api/imgur/chapter/L4vXN25/"
+        "FBS, NMS": "/proxy/api/imgur/chapter/rD3pVFb/"
       },
       "last_updated": "1620493680"
     }      
